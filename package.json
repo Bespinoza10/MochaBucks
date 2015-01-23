@@ -1,0 +1,27 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "Mocha and Chai project with JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^1.10.0",
+    "save": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai":"^1.10.0",
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Bespinoza10/MochaBucks.git"
+  },
+  "author": "Brandon Espinoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bespinoza10/MochaBucks/issues"
+  },
+  "homepage": "https://github.com/Bespinoza10/MochaBucks"
+}
